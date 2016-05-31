@@ -10,7 +10,7 @@ links:
   - name:         About
     url:          /about
   - name:         Blog
-    url:          /
+    url:          http://mitcc.github.io
   - name:         Email
     url:          mailto:mitcc6@gmail.com
     external:     true
