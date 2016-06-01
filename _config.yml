@@ -15,9 +15,9 @@ links:
     url:          mailto:mitcc6@gmail.com
     external:     true
 
-highlighter:      #pygments
+highlighter:      rouge #pygments
 permalink:        pretty
-markdown:         #redcarpet
+markdown:         kramdown #redcarpet
 redcarpet:
   extensions:
     - smart
