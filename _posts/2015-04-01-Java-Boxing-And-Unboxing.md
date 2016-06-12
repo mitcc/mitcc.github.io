@@ -6,6 +6,7 @@ permalink: Java-Boxing-and-Unboxing
 disqus: y
 ---
 
+```java
     public class Test {
 
         public static void main(String[] args) {
@@ -34,3 +35,4 @@ disqus: y
             }
 	    }
     }
+```
