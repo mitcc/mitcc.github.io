@@ -6,14 +6,13 @@ permalink: Java-Boxing-and-Unboxing
 disqus: y
 ---
 
-# 集合中只能存放对象
+# 集合中只能存放对象1
 
-== 集合中只能存放对象
+== 集合中只能存放对象2
 
-## 集合中只能存放对象
+## 集合中只能存放对象3
 
-### 集合中只能存放对象
-
+### 集合中只能存放对象4
 
 ```java
 public class Test {
