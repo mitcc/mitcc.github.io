@@ -47,3 +47,8 @@ public class Test {
 
 ##### TEXT
 这是文字，文字文字文字
+
+def hi():
+    return "Hi, mitcc!!!"
+
+上面是Python
