@@ -6,9 +6,9 @@ permalink: Java-Boxing-and-Unboxing
 disqus: y
 ---
 
- # 集合中只能存放对象
+# 集合中只能存放对象
 
- ==集合中只能存放对象
+== 集合中只能存放对象
 
 ## 集合中只能存放对象
 
