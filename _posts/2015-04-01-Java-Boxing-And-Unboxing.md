@@ -54,3 +54,5 @@ def hi():
 ```
 
 上面是Python
+
+<kbd>ctrl</kbd>+<kbd>k</kbd>
