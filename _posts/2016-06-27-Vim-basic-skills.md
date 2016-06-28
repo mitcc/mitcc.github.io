@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vim Basic Skills
+title: Vim-Basic-Skills
 date: 2016-06-27 22:55:08
 permalink: Vim-Basic-Skills
 disqus: y
