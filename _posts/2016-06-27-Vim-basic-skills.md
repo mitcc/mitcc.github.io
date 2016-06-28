@@ -6,13 +6,13 @@ permalink: Vim-Basic-Skills
 disqus: y
 ---
 
-# Syntax:
+## Syntax:
 
-# :ndk
+## :ndk
 
-# delete current and n lines above. (n + 1 lines in total)
+## delete current and n lines above. (n + 1 lines in total)
 
-# Example: 
+## Example: 
 
-# :3dk
+## :3dk
 
