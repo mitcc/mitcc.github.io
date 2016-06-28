@@ -6,13 +6,20 @@ permalink: Vim-Basic-Skills
 disqus: y
 ---
 
+*  delete current and n lines above. (n + 1 lines in total)
+
 ####  Syntax:
 
 ####  :ndk
-
-####  delete current and n lines above. (n + 1 lines in total)
 
 ####  Example: 
 
 ####  :3dk
 
+* delete all empty lines
+
+#### :g/^$/d
+
+* delete all lines that are empty or that contain only whitespace characters (spaces, tabs)
+
+####  :g/^\s*$/d
