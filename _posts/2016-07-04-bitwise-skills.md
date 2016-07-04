@@ -7,7 +7,7 @@ disqus: y
 ---
 
 ```Java
-/**
+    /**
      * Returns a power of two size for the given target capacity.
      */
     static final int tableSizeFor(int cap) {
