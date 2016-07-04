@@ -20,3 +20,5 @@ disqus: y
         return (n < 0) ? 1 : (n >= MAXIMUM_CAPACITY) ? MAXIMUM_CAPACITY : n + 1;
     }
 ```
+
+这是HashMap(Java) 源代码中的一个方法
