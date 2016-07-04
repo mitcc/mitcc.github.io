@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bitwise-Skills
+title: Bitwise Skills
 date: 2016-07-04 15:26:25
 permalink: Bitwise-Skills
 disqus: y
