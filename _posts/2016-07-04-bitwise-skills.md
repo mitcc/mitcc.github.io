@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Bitwise Skills
-date: 2016-07-04 15:26:25
-permalink: Bitwise-Skills
+date: 2016-07-04 16:06:31
+permalink: Vim-Basic-Skills
 disqus: y
 ---
-
-==========
 
 ```Java
     /**
