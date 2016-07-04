@@ -6,6 +6,10 @@ permalink: Vim-Basic-Skills
 disqus: y
 ---
 
+
+
+下面是HashMap(Java) 源代码中的一个方法
+
 ```Java
     /**
      * Returns a power of two size for the given target capacity.
@@ -21,4 +25,3 @@ disqus: y
     }
 ```
 
-这是HashMap(Java) 源代码中的一个方法
