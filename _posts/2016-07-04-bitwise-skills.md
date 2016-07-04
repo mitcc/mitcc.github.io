@@ -6,6 +6,8 @@ permalink: Bitwise-Skills
 disqus: y
 ---
 
+==========
+
 ```Java
     /**
      * Returns a power of two size for the given target capacity.
