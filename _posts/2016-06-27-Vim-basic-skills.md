@@ -28,9 +28,9 @@ disqus: y
 
 #### Case change
 
-### g~  toggle case change
-### gu  toggle lowercase
-### gU  toggle uppercase
+# g~  toggle case change
+# gu  toggle lowercase
+# gU  toggle uppercase
 
 
 
