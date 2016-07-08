@@ -6,15 +6,8 @@ permalink: Vim-Basic-Skills
 disqus: y
 ---
 
-*  delete current and n lines above. (n + 1 lines in total)
-
-####  Syntax:
-
 ####  :ndk
-
-####  Example: 
-
-####  :3dk
+*  delete current and n lines above. (n + 1 lines in total)
 
 * delete all empty lines
 
