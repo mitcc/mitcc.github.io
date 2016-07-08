@@ -23,3 +23,6 @@ disqus: y
 * delete all lines that are empty or that contain only whitespace characters (spaces, tabs)
 
 ####  :g/^\s*$/d
+
+####  y$
+* y$ – yank to the end of the current line (but don't yank the newline character);
