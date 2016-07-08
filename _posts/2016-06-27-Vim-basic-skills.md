@@ -17,7 +17,7 @@ disqus: y
 * yank
 
 |Command|Explanation|
-|:-----:|:----------------|
+|:---------------:|:----------------|
 |y$     |yank to the end of the current line (but don't yank the newline character)|
 |^y$    |the current line (but don't yank the newline character)|
 
