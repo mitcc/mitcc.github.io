@@ -26,13 +26,12 @@ disqus: y
 
 -------------------
 
-#### Case change
+* case change
 
-g~:toggle case change
-
-gu:toggle lowercase
-
-gU:toggle uppercase
-
+|Command|Explanation|
+|-------|-----------|
+|g~     |toggle case change|
+|gu     |toggle lowercase|
+|gU     |toggle uppercase|
 
 
