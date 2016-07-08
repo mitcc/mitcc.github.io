@@ -25,7 +25,7 @@ disqus: y
 * case change
 
 |Command|Explanation|
-|:-----:|:----------------:|
+|:-----:|:----------------|
 |~      |Toggle case of the character under the cursor, or all visually-selected characters|
 |3~     |toggle case of the next three characters|
 |g~     |toggle case change|g~ig~iww
