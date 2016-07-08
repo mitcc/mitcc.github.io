@@ -2,7 +2,7 @@
 layout: post
 title: Java虚拟机学习笔记
 date: 2015-01-11 22:32:31
-permalink: Java-VM-study-notes
+permalink: java-vm-study-notes
 disqus: y
 ---
 

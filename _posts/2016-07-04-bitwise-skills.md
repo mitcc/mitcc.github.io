@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Bitwise skills
+title: Bitwise Skills
 date: 2016-07-04 16:06:31
-permalink: Vim-Basic-Skills
+permalink: bitwise-skills
 disqus: y
 ---
 
