@@ -6,6 +6,7 @@ permalink: Vim-Basic-Skills
 disqus: y
 ---
 
+
 ####  :ndk
 *  delete current and n lines above. (n + 1 lines in total)
 
