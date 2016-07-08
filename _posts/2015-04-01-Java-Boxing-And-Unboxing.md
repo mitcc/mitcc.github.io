@@ -6,15 +6,6 @@ permalink: java-boxing-and-unboxing
 disqus: y
 ---
 
-# 集合中只能存放对象1
-
-==  集合中只能存放对象2
-
-## 集合中只能存放对象3
-
-### 集合中只能存放对象4
-
-{% highlight ruby %}
 ```java
 public class Test {
 
@@ -46,16 +37,3 @@ public class Test {
 }
 ```
 
-{% endhighlight %}
-
-##### TEXT
-这是文字，文字文字文字
-
-```Python
-def hi():
-    return "Hi, mitcc!!!"
-```
-
-上面是Python
-
-<kbd>ctrl</kbd>+<kbd>k</kbd>
