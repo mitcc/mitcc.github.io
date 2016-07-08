@@ -24,10 +24,19 @@ disqus: y
 
 * case change
 
-|Command|Explanation       |
+|Command|Explanation|
 |:-----:|:----------------:|
-|g~     |toggle case change|
-|gu     |toggle lowercase  |
-|gU     |toggle uppercase  |
+|~      |Toggle case of the character under the cursor, or all visually-selected characters|
+|3~     |toggle case of the next three characters|
+|g~     |toggle case change|g~ig~iww
+|g~3w   |toggle case of the next three words|
+|g~iw   |toggle case of the current word (inner word – cursor anywhere in word)|
+|g~$    |toggle case of all characters to end of line|
+|g~~    |toggle case of the current line (same as V~)|
+|gu     |toggle lowercase|
+|gU     |toggle uppercase|
+|guu    |change the current line to lowercase (same as vu)|
+|gUU    |change the current line to uppercase (same as VU)|
+|gUiw   |change current word to uppercase|
 
 
