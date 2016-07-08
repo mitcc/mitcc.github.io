@@ -9,7 +9,7 @@ disqus: y
 * delete
 
 |Command   |Explanation|
-|----------|:----------------|
+|:--------:|:----------------|
 |:ndk      |delete current and n lines above. (n + 1 lines in total)|
 |:g/^$/d   |delete all empty lines|
 |:g/^\s*$/d|delete all lines that are empty or that contain only whitespace characters (spaces, tabs)|
@@ -17,7 +17,7 @@ disqus: y
 * yank
 
 |Command|Explanation|
-|-------|:----------------|
+|:-----:|:----------------|
 |y$     |yank to the end of the current line (but don't yank the newline character)|
 |^y$    |the current line (but don't yank the newline character)|
 
@@ -25,7 +25,7 @@ disqus: y
 * case change
 
 |Command|Explanation|
-|-------|:----------------|
+|:-----:|:----------------|
 |~      |Toggle case of the character under the cursor, or all visually-selected characters|
 |3~     |toggle case of the next three characters|
 |g~     |toggle case change|g~ig~iww
