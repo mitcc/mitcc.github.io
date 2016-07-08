@@ -28,10 +28,10 @@ disqus: y
 
 * case change
 
-|Command|Explanation|
-|-------|-----------|
+|Command|Explanation       |
+|-------|------------------|
 |g~     |toggle case change|
-|gu     |toggle lowercase|
-|gU     |toggle uppercase|
+|gu     |toggle lowercase  |
+|gU     |toggle uppercase  |
 
 
