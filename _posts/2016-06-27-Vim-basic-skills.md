@@ -28,11 +28,11 @@ disqus: y
 
 #### Case change
 
-g~  toggle case change
+g~:toggle case change
 
-gu  toggle lowercase
+gu:toggle lowercase
 
-gU  toggle uppercase
+gU:toggle uppercase
 
 
 
