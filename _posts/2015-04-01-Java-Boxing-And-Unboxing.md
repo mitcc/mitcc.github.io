@@ -15,6 +15,7 @@ disqus: y
 ### 集合中只能存放对象4
 
 ```java
+{% highlight ruby %}
 public class Test {
 
     public static void main(String[] args) {
@@ -43,6 +44,7 @@ public class Test {
         }
     }
 }
+{% endhighlight %}
 ```
 
 ##### TEXT
