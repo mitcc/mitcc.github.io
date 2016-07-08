@@ -24,3 +24,13 @@ disqus: y
 ####  ^y$
 * the current line (but don't yank the newline character);
 
+-------------------
+
+#### Case change
+
+### g~  toggle case change
+### gu  toggle lowercase
+### gU  toggle uppercase
+
+
+
