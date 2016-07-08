@@ -25,4 +25,8 @@ disqus: y
 ####  :g/^\s*$/d
 
 ####  y$
-* y$ – yank to the end of the current line (but don't yank the newline character);
+* yank to the end of the current line (but don't yank the newline character);
+
+####  ^y$
+* the current line (but don't yank the newline character);
+
