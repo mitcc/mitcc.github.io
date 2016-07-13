@@ -18,7 +18,7 @@ disqus: y
 |Command   |Explanation|
 |:--------:|:----------------|
 |<kbd>:</kbd><kbd>n</kbd><kbd>d</kbd><kbd>k</kbd>|delete current and n lines above. (n + 1 lines in total)|
-|:g/^$/d   |delete all empty lines|
+|<kbd>:</kbd><kbd>g</kbd><kbd>/</kbd><kbd>^</kbd><kbd>$</kbd><kbd>/</kbd><kbd>d</kbd>|delete all empty lines|
 |:g/^\s*$/d|delete all lines that are empty or that contain only whitespace characters (spaces, tabs)|
 
 * yank
