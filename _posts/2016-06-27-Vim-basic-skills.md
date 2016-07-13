@@ -11,7 +11,7 @@ disqus: y
 
 |Command|Explanation|
 |:-----:|:----------------|
-|<kbd>n</kbd><kbd>0</kbd><kbd>|</kbd>||
+|<kbd>n</kbd><kbd>|</kbd>|move to cusor to the column of n|
 
 * delete
 
