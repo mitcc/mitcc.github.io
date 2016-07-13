@@ -7,13 +7,13 @@ disqus: y
 ---
 
 
-* move
+| move |
 
 |Command|Explanation|
 |:-----:|:----------------|
 |<kbd>n</kbd><kbd>\|</kbd>|move cusor to the column of n|
 
-* delete
+| delete |
 
 |Command   |Explanation|
 |:--------:|:----------------|
