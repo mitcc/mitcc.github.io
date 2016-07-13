@@ -33,7 +33,7 @@ disqus: y
 
 |Command|Explanation|
 |:-----:|:----------------|
-|<kbd>~</kbd>|Toggle case of the character under the cursor, or all visually-selected characters|
+|<kbd>~</kbd>|toggle case of the character under the cursor, or all visually-selected characters|
 |<kbd>3</kbd><kbd>~</kbd>|toggle case of the next three characters|
 |<kbd>g</kbd><kbd>~</kbd>|toggle case change|g~ig~iww
 |<kbd>g</kbd><kbd>~</kbd><kbd>3</kbd><kbd>w</kbd>|toggle case of the next three words|
