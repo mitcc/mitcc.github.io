@@ -9,7 +9,9 @@ disqus: y
 
 * move
 
-   <kbd>3</kbd><kbd>0</kbd><kbd>|</kbd>
+|Command|Explanation|
+|:-----:|:----------------|
+|<kbd>n</kbd><kbd>0</kbd><kbd>|</kbd>||
 
 * delete
 
