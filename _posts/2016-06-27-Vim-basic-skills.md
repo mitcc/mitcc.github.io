@@ -6,6 +6,11 @@ permalink: vim-basic-skills
 disqus: y
 ---
 
+
+* move
+
+   <kbd>3</kbd><kbd>0</kbd><kbd>|</kbd>
+
 * delete
 
 |Command   |Explanation|
