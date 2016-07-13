@@ -23,8 +23,8 @@ disqus: y
 
 |Command|Explanation|
 |:-----:|:----------------|
-|y$     |yank to the end of the current line (but don't yank the newline character)|
-|^y$    |the current line (but don't yank the newline character)|
+|kbd>y</kbd><kbd>$</kbd>|yank to the end of the current line (but don't yank the newline character)|
+|<kbd>^</kbd><kbd>y</kbd><kbd>$</kbd>|the current line (but don't yank the newline character)|
 
 
 * case change
