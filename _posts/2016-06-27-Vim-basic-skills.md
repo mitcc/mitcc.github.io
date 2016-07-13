@@ -7,7 +7,7 @@ disqus: y
 ---
 
 
-| move |
+|< move >|
 
 |Command|Explanation|
 |:-----:|:----------------|
