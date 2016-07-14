@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Bitwise Skills
+title: Java精巧源代码收集
 date: 2016-07-04 16:06:31
-permalink: bitwise-skills
+permalink: java-awesome-sourcecodes
 disqus: y
 ---
 
