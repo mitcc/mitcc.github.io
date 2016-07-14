@@ -10,7 +10,7 @@ disqus: y
 
 下面是HashMap(Java) 源代码中的一个方法
 
-```Java
+```java
 /**
  * Returns a power of two size for the given target capacity.
  */
