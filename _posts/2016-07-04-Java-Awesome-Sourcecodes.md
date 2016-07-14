@@ -23,7 +23,6 @@ static final int tableSizeFor(int cap) {
     return (n < 0) ? 1 : (n >= MAXIMUM_CAPACITY) ? MAXIMUM_CAPACITY : n + 1;
 }
 ```
-
 ##### HashMap类中的一个方法, 求大于或等于指定数字的最小2的幂
 
 ```java
