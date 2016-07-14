@@ -35,7 +35,7 @@ disqus: y
 |:-----:|:----------------|
 |<kbd>~</kbd>|toggle case of the character under the cursor, or all visually-selected characters|
 |<kbd>3</kbd><kbd>~</kbd>|toggle case of the next three characters|
-|<kbd>g</kbd><kbd>~</kbd>|toggle case change|g~ig~iww
+|<kbd>g</kbd><kbd>~</kbd>|toggle case change|
 |<kbd>g</kbd><kbd>~</kbd><kbd>3</kbd><kbd>w</kbd>|toggle case of the next three words|
 |<kbd>g</kbd><kbd>~</kbd><kbd>i</kbd><kbd>w</kbd>|toggle case of the current word (inner word – cursor anywhere in word)|
 |<kbd>g</kbd><kbd>~</kbd><kbd>$</kbd>|toggle case of all characters to end of line|
