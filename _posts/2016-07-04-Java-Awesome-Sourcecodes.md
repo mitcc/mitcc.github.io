@@ -23,7 +23,6 @@ static final int tableSizeFor(int cap) {
 }
 ```
 
-# segment 1
 
 #### HashMap类中的一个方法, 求大于或等于指定数字的最小2的指数倍。
 
