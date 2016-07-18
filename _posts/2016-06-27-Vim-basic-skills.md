@@ -46,3 +46,8 @@ disqus: y
 |<kbd>g</kbd><kbd>U</kbd><kbd>U</kbd>|change the current line to uppercase (same as VU)|
 |<kbd>g</kbd><kbd>U</kbd><kbd>i</kbd><kbd>w</kbd>|change current word to uppercase|
 
+* window
+
+|Command|Explanation|
+|:-----:|:----------------|
+|<kbd>:</kbd><kbd>s</kbd><kbd>p</kbd>|split window|
