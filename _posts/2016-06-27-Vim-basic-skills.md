@@ -52,3 +52,5 @@ disqus: y
 |:-----:|:----------------|
 |<kbd>:</kbd><kbd>s</kbd><kbd>p</kbd> or <kbd>Ctrl</kbd><kbd>w</kbd><kbd>s</kbd>|split the current window horizontally, loading the same file in the new window|
 |<kbd>:</kbd><kbd>v</kbd><kbd>s</kbd><kbd>p</kbd> or <kbd>Ctrl</kbd><kbd>w</kbd><kbd>v</kbd>|split the current window vertically, loading the same file in the new window|
+|<kbd>:</kbd><kbd>q</kbd>|close the currently active window|
+|<kbd>:</kbd><kbd>o</kbd><kbd>n</kbd>|close all windows except the currently active window|
