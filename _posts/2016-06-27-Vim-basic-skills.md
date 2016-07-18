@@ -51,3 +51,4 @@ disqus: y
 |Command|Explanation|
 |:-----:|:----------------|
 |<kbd>:</kbd><kbd>s</kbd><kbd>p</kbd>|split window|
+|<kbd>:</kbd><kbd>v</kbd><kbd>s</kbd><kbd>p</kbd>|split window|
