@@ -50,6 +50,5 @@ disqus: y
 
 |Command|Explanation|
 |:-----:|:----------------|
-|<kbd>:</kbd><kbd>s</kbd><kbd>p</kbd> or
-<kbd>Ctrl</kbd><kbd>w</kbd><kbd>s</kbd>|split the current window horizontally, loading the same file in the new window|
+|<kbd>:</kbd><kbd>s</kbd><kbd>p</kbd> or <kbd>Ctrl</kbd><kbd>w</kbd><kbd>s</kbd>|split the current window horizontally, loading the same file in the new window|
 |<kbd>:</kbd><kbd>v</kbd><kbd>s</kbd><kbd>p</kbd> or <kbd>Ctrl</kbd><kbd>w</kbd><kbd>v</kbd>|split the current window vertically, loading the same file in the new window|
