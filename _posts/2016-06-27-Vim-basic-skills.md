@@ -50,5 +50,5 @@ disqus: y
 
 |Command|Explanation|
 |:-----:|:----------------|
-|<kbd>:</kbd><kbd>s</kbd><kbd>p</kbd>|split window|
-|<kbd>:</kbd><kbd>v</kbd><kbd>s</kbd><kbd>p</kbd>|split window|
+|<kbd>:</kbd><kbd>s</kbd><kbd>p</kbd> or <kbd>Ctrl</kbd>w<kbd>s</kbd><kbd></kbd>|split window|
+|<kbd>:</kbd><kbd>v</kbd><kbd>s</kbd><kbd>p</kbd> or <kbd>Ctrl</kbd><kbd>w</kbd><kbd>v</kbd>|split window|
