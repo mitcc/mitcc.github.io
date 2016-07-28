@@ -31,6 +31,10 @@ disqus: y
 |<kbd>:</kbd><kbd>g</kbd><kbd>/</kbd><kbd>^</kbd><kbd>$</kbd><kbd>/</kbd><kbd>d</kbd>|delete all empty lines|
 |<kbd>:</kbd><kbd>g</kbd><kbd>/</kbd><kbd>^</kbd><kbd>\\</kbd><kbd>s</kbd><kbd>*</kbd><kbd>$</kbd><kbd>/</kbd><kbd>d</kbd>|delete all lines that are empty or that contain only whitespace characters (spaces, tabs)|
 
+删除一行中某个字符之前的所有内容：
+|%s/^.*+// | (删除+前的内容，包含+) |
+|:s/^.*\(FOO\)/\1/  |（删除FOO前的内容，不包含FOO）|
+
 * yank
 
 |Command|Explanation|
