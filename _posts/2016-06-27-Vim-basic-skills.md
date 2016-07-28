@@ -41,6 +41,8 @@ disqus: y
 |:-----:|:----------------|
 |<kbd>y</kbd><kbd>$</kbd>|yank to the end of the current line (but don't yank the newline character)|
 |<kbd>^</kbd><kbd>y</kbd><kbd>$</kbd>|the current line (but don't yank the newline character)|
+|y5l|向后复制5个字符|
+|y5h|向前复制5个字符|
 
 * move
 
