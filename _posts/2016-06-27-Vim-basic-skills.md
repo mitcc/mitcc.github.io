@@ -30,11 +30,8 @@ disqus: y
 |<kbd>:</kbd><kbd>n</kbd><kbd>d</kbd><kbd>k</kbd>|delete current and n lines above. (n + 1 lines in total)|
 |<kbd>:</kbd><kbd>g</kbd><kbd>/</kbd><kbd>^</kbd><kbd>$</kbd><kbd>/</kbd><kbd>d</kbd>|delete all empty lines|
 |<kbd>:</kbd><kbd>g</kbd><kbd>/</kbd><kbd>^</kbd><kbd>\\</kbd><kbd>s</kbd><kbd>*</kbd><kbd>$</kbd><kbd>/</kbd><kbd>d</kbd>|delete all lines that are empty or that contain only whitespace characters (spaces, tabs)|
-
-删除一行中某个字符之前的所有内容：
-
-|%s/^.*+//|(删除+前的内容，包含+)|
-|:s/^.*\(FOO\)/\1/|（删除FOO前的内容，不包含FOO）|
+|%s/^.*+//|(删除一行中+前的内容，包含+)|
+|:s/^.*\(FOO\)/\1/|（删除一行中FOO前的内容，不包含FOO）|
 
 * yank
 
