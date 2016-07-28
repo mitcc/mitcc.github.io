@@ -12,6 +12,9 @@ disqus: y
 
 |Command|Explanation|
 |:-----:|:----------|
+|<kbd>:</kbd><kbd>%</kbd><kbd>s</kbd><kbd>/</kbd><kbd>\</kbd><kbd>(</kbd><kbd>.</kbd><kbd>*</kbd><kbd>\</kbd><kbd>)</kbd><kbd>/</kbd><kbd>anystr</kbd><kbd>\</kbd><kbd>1</kbd>|get
+the whole line and replace, \1 is the content of the line|
+|:%s/\(.*\)/String \1 = "";||
 |<kbd>r</kbd>|replace character under current cursor| 
 |<kbd>R</kbd>|replace from current cursor| 
 
