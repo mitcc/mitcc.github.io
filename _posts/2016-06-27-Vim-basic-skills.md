@@ -18,12 +18,6 @@ disqus: y
 |:%s/$/XXX/|每行的行尾添加相同的内容"XXX"|
 |:%s/XXX.*/YYY/|从XXX处至行尾替换成YYY,其中若"YYY"为空串，则可变为从"XXX"处删至行尾|
 
-* move
-
-|Command|Explanation|
-|:-----:|:----------------|
-|<kbd>n</kbd><kbd>\|</kbd>|move cusor to the column of n|
-
 * delete
 
 |Command   |Explanation|
@@ -38,6 +32,8 @@ disqus: y
 |:%s/.\{-}Hello/Hello|删除第一个匹配的Hello之前的内容|
 |df#|从光标处删至#符号(包含)|
 |dt#|从光标处删至#符号(不包含)|
+|dgg|从当前行删至首行|
+|dG|从当前行删至尾行|
 
 * yank
 
@@ -46,6 +42,11 @@ disqus: y
 |<kbd>y</kbd><kbd>$</kbd>|yank to the end of the current line (but don't yank the newline character)|
 |<kbd>^</kbd><kbd>y</kbd><kbd>$</kbd>|the current line (but don't yank the newline character)|
 
+* move
+
+|Command|Explanation|
+|:-----:|:----------------|
+|<kbd>n</kbd><kbd>\|</kbd>|move cusor to the column of n|
 
 * case change
 
