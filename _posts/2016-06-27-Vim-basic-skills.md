@@ -61,6 +61,13 @@ disqus: y
 |:-----:|:----------------|
 |:%s/string//gn|统计某匹配串出现的次数|
 
+* search
+
+|Command|Explanation|
+|:-----:|:----------|
+|<kbd>*</kbd>|search for the word under the cursor forward|
+|<kbd>#</kbd>|search for the word under the cursor backward|
+
 * move
 
 |Command|Explanation|
