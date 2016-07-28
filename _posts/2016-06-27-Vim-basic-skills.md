@@ -19,7 +19,8 @@ disqus: y
 |:%s/XXX.*/YYY/|从XXX处至行尾替换成YYY,其中若"YYY"为空串，则可变为从"XXX"处删至行尾|
 |:g/red/s/blue/green|替换包含某字符串的行,to replace "blue" with "green" in lines that contain "red"|
 |:g!/red/s/blue/green|替换不包含某字符串的行,to do the replacement in lines that do not contain "red"|
-|%s/^)/somestring/|替换以)开头的行, /^)查找以)开头的行|
+|%s/^)/somestring/|替换以)开头的行, /^)查找以)开头的行,在查找的内容前加上**^**|
+|:%s/\cmyString/newstring/g|查找、替换时不区分大小写,在查找的内容前加上**\c**|
 
 * delete
 
