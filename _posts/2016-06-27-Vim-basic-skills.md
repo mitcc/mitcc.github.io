@@ -34,6 +34,8 @@ disqus: y
 |:s/^.*\(FOO\)/\1/|删除一行中FOO前的内容，不包含FOO|
 |:%s/.*Hello/Hello/|删除最后一个匹配的Hello之前的内容|
 |:%s/.\{-}Hello/Hello|删除第一个匹配的Hello之前的内容|
+|df#|从光标处删至#符号(包含)|
+|dt#|从光标处删至#符号(不包含)|
 
 * yank
 
