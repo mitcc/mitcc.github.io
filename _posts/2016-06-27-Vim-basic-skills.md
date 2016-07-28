@@ -25,7 +25,7 @@ disqus: y
 
 |Command   |Explanation|
 |:--------:|:----------------|
-|<kbd>:</kbd><kbd>%</kbd><kbd>n</kbd><kbd>o</kbd><kbd>r</kbd><kbd>m</kbd><kbd>Space</kbd><kbd>f</kbd><kbd>:</kbd><kbd>D</kbd>|对每一行删除冒号及冒号之后的内容,其中f前可加上数字1，表示从第几个冒号开始删除，若D前加上小写字母"l(L)",则删除内容不包括冒号|
+|<kbd>:</kbd><kbd>%</kbd><kbd>n</kbd><kbd>o</kbd><kbd>r</kbd><kbd>m</kbd><kbd></kbd><kbd>f</kbd><kbd>:</kbd><kbd>D</kbd>|对每一行删除冒号及冒号之后的内容,其中f前可加上数字1，表示从第几个冒号开始删除，若D前加上小写字母"l(L)",则删除内容不包括冒号|
 |<kbd>:</kbd><kbd>n</kbd><kbd>d</kbd><kbd>k</kbd>|delete current and n lines above. (n + 1 lines in total)|
 |<kbd>:</kbd><kbd>g</kbd><kbd>/</kbd><kbd>^</kbd><kbd>$</kbd><kbd>/</kbd><kbd>d</kbd>|delete all empty lines|
 |<kbd>:</kbd><kbd>g</kbd><kbd>/</kbd><kbd>^</kbd><kbd>\\</kbd><kbd>s</kbd><kbd>*</kbd><kbd>$</kbd><kbd>/</kbd><kbd>d</kbd>|delete all lines that are empty or that contain only whitespace characters (spaces, tabs)|
