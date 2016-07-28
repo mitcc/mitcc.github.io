@@ -15,6 +15,7 @@ disqus: y
 |<kbd>:</kbd><kbd>%</kbd><kbd>s</kbd><kbd>/</kbd><kbd>\\</kbd><kbd>(</kbd><kbd>.</kbd><kbd>*</kbd><kbd>\\</kbd><kbd>)</kbd><kbd>/</kbd><kbd>somestring</kbd><kbd>\\</kbd><kbd>1</kbd>|get the whole line and replace, \1 is the content of the line, for examle <kbd>:%s/\(.*\)/String \1 = "";</kbd>|
 |<kbd>r</kbd>|replace character under current cursor| 
 |<kbd>R</kbd>|replace from current cursor| 
+|:%s/$/XXX/|每行的行尾添加相同的内容"XXX"|
 
 * move
 
