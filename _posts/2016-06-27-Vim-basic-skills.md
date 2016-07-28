@@ -9,6 +9,7 @@ disqus: y
 
 
 * replace
+
 |Command|Explanation|
 |:-----:|:----------|
 |<kbd>r</kbd>|replace character under current cursor| 
