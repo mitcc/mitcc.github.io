@@ -7,6 +7,13 @@ disqus: y
 ---
 
 
+
+* replace
+|Command|Explanation|
+|:-----:|:----------|
+|<kbd>r</kbd>|replace character under current cursor| 
+|<kbd>R</kbd>|replace from current cursor| 
+
 * move
 
 |Command|Explanation|
