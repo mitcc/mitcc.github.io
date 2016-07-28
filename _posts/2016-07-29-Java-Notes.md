@@ -13,6 +13,10 @@ Java Arrays类源代码中的fill方法，使得**数组中的每个元素，均
 ```
 public class Arrays {
 
+    /*
+     * 省略其它成员变量、方法等
+     */
+
     public static void fill(Object[] a, Object val) {
         for (int i = 0, len = a.length; i < len; i++)
             a[i] = val;
