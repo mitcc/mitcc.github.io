@@ -50,6 +50,12 @@ disqus: y
 |y5l|向后复制5个字符|
 |y5h|向前复制5个字符|
 
+* count
+
+|Command|Explanation|
+|:-----:|:----------------|
+|:%s/string//gn|统计某匹配串出现的次数|
+
 * move
 
 |Command|Explanation|
