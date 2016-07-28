@@ -62,6 +62,11 @@ disqus: y
 |:-----:|:----------------|
 |<kbd>n</kbd><kbd>\|</kbd>|move cusor to the column of n|
 
+* highlight
+|Command|Explanation|
+|:-----:|:----------------|
+|<kbd>:</kbd><kbd>n</kbd>|<kbd>o</kbd><kbd>h</kbd>|取消替换、搜索之后的高亮|
+
 * case change
 
 |Command|Explanation|
