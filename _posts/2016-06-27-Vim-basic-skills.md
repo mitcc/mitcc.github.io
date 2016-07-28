@@ -16,6 +16,7 @@ disqus: y
 |<kbd>r</kbd>|replace character under current cursor| 
 |<kbd>R</kbd>|replace from current cursor| 
 |:%s/$/XXX/|每行的行尾添加相同的内容"XXX"|
+|:%s/XXX.*/YYY/|从XXX处至行尾替换成YYY,其中若"YYY"为空串，则可变为从"XXX"处删至行尾|
 
 * move
 
