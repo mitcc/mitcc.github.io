@@ -24,3 +24,23 @@ public class Arrays {
 
 }
 ```
+
+Math类中的abs方法，返回值跟输入值的类型有关
+
+```java
+public static int abs(int a) {
+    return (a < 0) ? -a : a;
+}
+
+public static long abs(long a) {
+    return (a < 0) ? -a : a;
+}
+
+public static float abs(float a) {
+    return (a <= 0.0F) ? 0.0F - a : a;
+}
+
+public static double abs(double a) {
+    return (a <= 0.0D) ? 0.0D - a : a;
+}
+```
