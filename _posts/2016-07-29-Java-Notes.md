@@ -28,19 +28,25 @@ public class Arrays {
 Math类中的abs方法，返回值跟输入值的类型有关
 
 ```java
+// method 1
 public static int abs(int a) {
     return (a < 0) ? -a : a;
 }
 
+// method 2
 public static long abs(long a) {
     return (a < 0) ? -a : a;
 }
 
+// method 3
 public static float abs(float a) {
     return (a <= 0.0F) ? 0.0F - a : a;
 }
 
+// method 4
 public static double abs(double a) {
     return (a <= 0.0D) ? 0.0D - a : a;
 }
 ```
+
+当a为Integer.MIN_VALUE,也即-2147483648时，Math.abs(a)使用的是方法1，返回结果并非2147483648，而是-2147483648。
