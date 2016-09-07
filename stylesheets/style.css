@@ -324,6 +324,19 @@ pre {
   box-sizing: border-box; }
 
 code {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  position: relative;
+  width: 100%;
+  border-width: 0;
+  border-style: solid;
+  padding: 30px 60px;
+  margin: auto;
+}
+
+/*
+code {
   font-size: 13px;
   color: #eee;
   background: #39382e;
@@ -335,6 +348,7 @@ code {
   zoom: 1;
   *display: inline;
   *vertical-align: auto; }
+*/
 
 img {
   max-width: 100%; }
