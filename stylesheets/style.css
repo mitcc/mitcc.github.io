@@ -332,7 +332,7 @@ code {
   border-width: 0;
   border-style: solid;
   padding: 30px 60px;
-  margin: auto;
+  //margin: auto;
   color: #eee;
   background: #39382e;
 }
