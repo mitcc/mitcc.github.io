@@ -54,6 +54,7 @@ disqus: y
 |<kbd>^</kbd><kbd>y</kbd><kbd>$</kbd>|the current line (but don't yank the newline character)|
 |y5l|向后复制5个字符|
 |y5h|向前复制5个字符|
+|:4co.<kbd>Enter</kbd>|复制第4行并粘贴至当前行的下一行|
 
 * count
 
