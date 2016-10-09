@@ -26,7 +26,9 @@ public class Test {
 ```
 
 使用add方法将元素添加至List末尾，
+
 当N=100000时，ArrayList用时比LinkedList久；
+
 当N=1000000时，ArrayList耗时少于LinkedList
 
 **上面N的取值并非准确的临界值，只是随便取的一个实验值**
