@@ -3,7 +3,7 @@
 final修饰过的变量，它在编译时被解析为常量值的一个本地拷贝，存储到自己的常量池，或嵌入到它的字节码流中。
 
 ```Java
-String s0 = "aabb"";
+String s0 = "aabb";
 String s1 = "aa";
 System.out.println(s0 == s1 + "bb"); // false;
 ```
