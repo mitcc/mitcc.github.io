@@ -10,7 +10,7 @@ System.out.println(s0 == s1 + "bb"); // false;
 使用final修饰后
 
 ```Java
-String s0 = "aabb"";
+String s0 = "aabb";
 final String s1 = "aa";
 System.out.println(s0 == s1 + "bb"); // true;
 ```
