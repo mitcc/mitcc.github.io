@@ -5,7 +5,7 @@ date: 2016-07-29 00:53:47
 
 
 
-Java Arrays类源代码中的fill方法，使得**数组中的每个元素，填充同一个对象的引用，而非将val复制a.length个，分别指向这些对象**，由下面的源代码很容易看出这点。
+Java Arrays类源代码中的fill方法，使得**数组中的每个元素，填充同一个对象的引用，而非将val复制a.length个，分别指向这些对象**，下面是fill方法的源代码。
 
 ```java
     public class Arrays {
