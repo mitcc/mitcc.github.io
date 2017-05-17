@@ -1,8 +1,8 @@
 # ----------- CONFIGURABLE START -----------
-title:            "mitcc's home page"
-description:      "make cool things happen"
-url:              http://mitcc.github.io # Site url, without a slash at the end.
-signoff:          "mitcc" # Your name
+title:            "Scribble"
+description:      "Such theme, very cool."
+url:              http://scribble.muan.co # Site url, without a slash at the end.
+signoff:          "muan" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
 share:            false # Turn on twitter and facebook share buttons
