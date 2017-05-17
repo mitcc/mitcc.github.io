@@ -17,7 +17,8 @@ links:
 
 highlighter:      rouge #pygments
 permalink:        pretty
-markdown:         kramdown #redcarpet
+markdown:         kramdown
+#redcarpet
 redcarpet:
   extensions:
     - smart
