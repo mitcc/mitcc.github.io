@@ -17,7 +17,10 @@ links:
 
 highlighter:      rouge #pygments
 permalink:        pretty
-#markdown:         kramdown
+markdown:         kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
 #redcarpet
 redcarpet:
   extensions:
