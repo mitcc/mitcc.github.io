@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Java装箱与拆箱
 date: 2015-04-01 14:21:25
 permalink: java-boxing-and-unboxing

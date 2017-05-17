@@ -1,10 +1,8 @@
 ---
-layout: page
-title: About
+title: About me
 ---
 
-* [mitcc][github] on GitHub
-* [mitcc][twitter] on Twitter
+Under construction!
 
-[github]: https://github.com/mitcc
-[twitter]: https://twitter.com/mitcc6
+
+Find me on [GitHub](https://github.com/mitcc) or [Twitter](https://twitter.com/mitcc6).
