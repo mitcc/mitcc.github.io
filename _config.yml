@@ -17,7 +17,7 @@ links:
 
 highlighter:      pygments #rouge 
 permalink:        pretty
-markdown:         redcarpet #kramdown 
+markdown:         kramdown #redcarpet 
 
 kramdown:
   input: GFM
