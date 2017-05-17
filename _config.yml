@@ -19,10 +19,6 @@ highlighter:      pygments #rouge
 permalink:        pretty
 markdown:         kramdown #redcarpet 
 
-kramdown:
-  input: GFM
-  hard_wrap: false
-
 redcarpet:
   extensions:
     - smart
