@@ -5,7 +5,7 @@ date: 2016-06-27 22:55:08
 
 
 
-* replace
+# replace
 
 |Command|Explanation|
 |:-----:|:----------|
@@ -19,7 +19,7 @@ date: 2016-06-27 22:55:08
 |%s/^)/somestring/|替换以)开头的行, /^)查找以)开头的行,在查找的内容前加上**^**|
 |:%s/\cmyString/newstring/g|查找、替换时不区分大小写,在查找的内容前加上**\c**|
 
-* delete
+# delete
 
 |Command   |Explanation|
 |:--------:|:----------------|
