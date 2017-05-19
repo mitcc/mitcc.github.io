@@ -10,10 +10,10 @@ date: 2016-06-27 22:55:08
 |Command|Explanation|
 |:-----:|:----------|
 |<kbd>:</kbd><kbd>%</kbd><kbd>s</kbd><kbd>/</kbd><kbd>\\</kbd><kbd>(</kbd><kbd>.</kbd><kbd>\*</kbd><kbd>\\</kbd><kbd>)</kbd><kbd>/</kbd><kbd>somestring</kbd><kbd>\\</kbd><kbd>1</kbd>|get the whole line and replace, \1 is the content of the line, for examle <kbd>:%s/\(.*\)/String \1 = "";</kbd>|
-|<kbd>r</kbd>|replace character under current cursor| 
-|<kbd>R</kbd>|replace from current cursor| 
+|r|replace character under current cursor| 
+|R|replace from current cursor| 
 |:%s/$/XXX/|每行的行尾添加相同的内容"XXX"|
-|:%s/XXX.*/YYY/|从XXX处至行尾替换成YYY,其中若"YYY"为空串，则可变为从"XXX"处删至行尾|
+|:%s/XXX.\*/YYY/|从XXX处至行尾替换成YYY,其中若"YYY"为空串，则可变为从"XXX"处删至行尾|
 |:g/red/s/blue/green|替换包含某字符串的行,to replace "blue" with "green" in lines that contain "red"|
 |:g!/red/s/blue/green|替换不包含某字符串的行,to do the replacement in lines that do not contain "red"|
 |%s/^)/somestring/|替换以)开头的行, /^)查找以)开头的行,在查找的内容前加上**^**|
