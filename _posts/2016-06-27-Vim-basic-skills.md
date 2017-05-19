@@ -92,7 +92,7 @@ date: 2016-06-27 22:55:08
 |<kbd>g</kbd><kbd>~</kbd><kbd>3</kbd><kbd>w</kbd>|toggle case of the next three words|
 |<kbd>g</kbd><kbd>~</kbd><kbd>i</kbd><kbd>w</kbd>|toggle case of the current word (inner word – cursor anywhere in word)|
 |<kbd>g</kbd><kbd>~</kbd><kbd>$</kbd>|toggle case of all characters to end of line|
-|<kbd>g</kbd> <kbd>~</kbd><kbd>~</kbd>|toggle case of the current line (same as V~)|
+|g~~|toggle case of the current line (same as V~)|
 |<kbd>g</kbd><kbd>u</kbd>|toggle lowercase|
 |<kbd>g</kbd><kbd>U</kbd>|toggle uppercase|
 |<kbd>g</kbd><kbd>u</kbd><kbd>u</kbd>|change the current line to lowercase (same as vu)|
