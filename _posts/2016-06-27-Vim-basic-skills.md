@@ -41,8 +41,8 @@ date: 2016-06-27 22:55:08
 |:%d|删除所有行|
 |:1,$d|删除所有行|
 |:g/.\*/d|删除所有行|
-|<kbd>:</kbd><kbd>g</kbd><kbd>/</kbd><kbd>^</kbd><kbd>$</kbd><kbd>/</kbd><kbd>d</kbd>|delete all empty lines|
-|<kbd>:</kbd><kbd>g</kbd><kbd>/</kbd><kbd>^</kbd><kbd>\\</kbd><kbd>s</kbd><kbd>\*</kbd><kbd>$</kbd><kbd>/</kbd><kbd>d</kbd>|delete all lines that are empty or that contain only whitespace characters (spaces, tabs)|
+|:g/^$/d|delete all empty lines|
+|:g/^\\s\*$/d|delete all lines that are empty or that contain only whitespace characters (spaces, tabs)|
 |:g/abcd/d|删除所有包含"abcd"的行|
 |3dk|删除当前及上面3行，即一共3+1行|
 |3dd|向下删除,一共3行|
@@ -51,8 +51,8 @@ date: 2016-06-27 22:55:08
 
 |Command|Explanation|
 |:-----:|:----------------|
-|<kbd>y</kbd><kbd>$</kbd>|yank to the end of the current line (but don't yank the newline character)|
-|<kbd>^</kbd><kbd>y</kbd><kbd>$</kbd>|the current line (but don't yank the newline character)|
+|y$|yank to the end of the current line (but don't yank the newline character)|
+|^y$|the current line (but don't yank the newline character)|
 |y5l|向后复制5个字符|
 |y5h|向前复制5个字符|
 |:4co.<kbd>Enter</kbd>|复制第4行并粘贴至当前行的下一行|
@@ -74,7 +74,7 @@ date: 2016-06-27 22:55:08
 
 |Command|Explanation|
 |:-----:|:----------------|
-|<kbd>n</kbd><kbd>\|</kbd>|move cusor to the column of n|
+|n\||</kbd>|move cusor to the column of n|
 
 * highlight settings
 
