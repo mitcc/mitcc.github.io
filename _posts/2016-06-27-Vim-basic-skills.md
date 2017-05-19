@@ -74,7 +74,7 @@ date: 2016-06-27 22:55:08
 
 |Command|Explanation|
 |:-----:|:----------------|
-|n\||</kbd>|move cusor to the column of n|
+|n\||move cusor to the column of n|
 
 * highlight settings
 
