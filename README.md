@@ -1,6 +1,6 @@
 # mitcc's home page
 
-A Jekyll theme. Powered by [Scribble :point_left:](http://scribble.muan.co/posts/scribble-the-jekyll-theme).
+A Jekyll theme. Powered by [Scribble](http://scribble.muan.co/posts/scribble-the-jekyll-theme):point_left:.
 
 ![screenshot](https://cloud.githubusercontent.com/assets/1153134/23830104/6d4665e0-06b7-11e7-8805-57e73c346459.png)
 
