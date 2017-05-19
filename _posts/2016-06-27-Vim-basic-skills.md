@@ -67,8 +67,8 @@ date: 2016-06-27 22:55:08
 
 |Command|Explanation|
 |:-----:|:----------|
-|<kbd>*</kbd>|search for the word under the cursor forward|
-|<kbd>#</kbd>|search for the word under the cursor backward|
+|\*|search for the word under the cursor forward|
+|#|search for the word under the cursor backward|
 
 * move
 
