@@ -80,7 +80,7 @@ date: 2016-06-27 22:55:08
 
 |Command|Explanation|
 |:-----:|:----------------|
-|<kbd>:</kbd><kbd>n</kbd><kbd>o</kbd><kbd>h</kbd>|取消替换、搜索之后的高亮|
+|:noh|取消替换、搜索之后的高亮|
 
 * case change
 
