@@ -5,11 +5,11 @@ date: 2016-06-27 22:55:08
 
 
 
-# replace
+#replace
 
 |Command|Explanation|
 |:-----:|:----------|
-|<kbd>:</kbd><kbd>%</kbd><kbd>s</kbd><kbd>/</kbd><kbd>\\</kbd><kbd>(</kbd><kbd>.</kbd><kbd>*</kbd><kbd>\\</kbd><kbd>)</kbd><kbd>/</kbd><kbd>somestring</kbd><kbd>\\</kbd><kbd>1</kbd>|get the whole line and replace, \1 is the content of the line, for examle <kbd>:%s/\(.*\)/String \1 = "";</kbd>|
+|<kbd>:</kbd><kbd>%</kbd><kbd>s</kbd><kbd>/</kbd><kbd>\\</kbd><kbd>(</kbd><kbd>.</kbd><kbd>\*</kbd><kbd>\\</kbd><kbd>)</kbd><kbd>/</kbd><kbd>somestring</kbd><kbd>\\</kbd><kbd>1</kbd>|get the whole line and replace, \1 is the content of the line, for examle <kbd>:%s/\(.*\)/String \1 = "";</kbd>|
 |<kbd>r</kbd>|replace character under current cursor| 
 |<kbd>R</kbd>|replace from current cursor| 
 |:%s/$/XXX/|每行的行尾添加相同的内容"XXX"|
@@ -19,7 +19,7 @@ date: 2016-06-27 22:55:08
 |%s/^)/somestring/|替换以)开头的行, /^)查找以)开头的行,在查找的内容前加上**^**|
 |:%s/\cmyString/newstring/g|查找、替换时不区分大小写,在查找的内容前加上**\c**|
 
-# delete
+#delete
 
 |Command   |Explanation|
 |:--------:|:----------------|
@@ -47,7 +47,7 @@ date: 2016-06-27 22:55:08
 |3dk|删除当前及上面3行，即一共3+1行|
 |3dd|向下删除,一共3行|
 
-* yank
+#yank
 
 |Command|Explanation|
 |:-----:|:----------------|
