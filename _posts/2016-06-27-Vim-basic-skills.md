@@ -23,7 +23,7 @@ date: 2016-06-27 22:55:08
 
 |Command   |Explanation|
 |:--------:|:----------------|
-|<kbd>:</kbd><kbd>%</kbd><kbd>n</kbd><kbd>o</kbd><kbd>r</kbd><kbd>m</kbd><kbd>Space</kbd><kbd>f</kbd><kbd>:</kbd><kbd>D</kbd>|对每一行删除冒号及冒号之后的内容,其中f前可加上数字1，表示从第几个冒号开始删除，若D前加上小写字母"l(L)",则删除内容不包括冒号|
+|:%norm f:D|对每一行删除冒号及冒号之后的内容,其中f前可加上数字1，表示从第几个冒号开始删除，若D前加上小写字母"l(L)",则删除内容不包括冒号|
 |:ndk|delete current and n lines above. (n + 1 lines in total)|
 |:%s/^.\*+//|删除一行中+前的内容，包含+|
 |:s/^.\*\(FOO\)/\1/|删除一行中FOO前的内容，不包含FOO|
