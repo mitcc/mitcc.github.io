@@ -103,7 +103,7 @@ date: 2016-06-27 22:55:08
 
 |Command|Explanation|
 |:-----:|:----------------|
-|<kbd>:</kbd><kbd>s</kbd><kbd>p</kbd> or <kbd>Ctrl</kbd><kbd>w</kbd><kbd>s</kbd>|split the current window horizontally, loading the same file in the new window|
-|<kbd>:</kbd><kbd>v</kbd><kbd>s</kbd><kbd>p</kbd> or <kbd>Ctrl</kbd><kbd>w</kbd><kbd>v</kbd>|split the current window vertically, loading the same file in the new window|
+|:sp or Ctrl+w+s|split the current window horizontally, loading the same file in the new window|
+|:vsp or Ctrl+w+v|split the current window vertically, loading the same file in the new window|
 |:q|close the currently active window|
 |:on|close all windows except the currently active window|
