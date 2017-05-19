@@ -5,7 +5,7 @@ date: 2016-06-27 22:55:08
 
 
 
-#replace
+# replace
 
 |Command|Explanation|
 |:-----:|:----------|
@@ -19,7 +19,7 @@ date: 2016-06-27 22:55:08
 |%s/^)/somestring/|替换以)开头的行, /^)查找以)开头的行,在查找的内容前加上**^**|
 |:%s/\cmyString/newString/g|查找、替换时不区分大小写,在查找的内容前加上**\c**|
 
-#delete
+# delete
 
 |Command   |Explanation|
 |:--------:|:----------------|
@@ -47,7 +47,7 @@ date: 2016-06-27 22:55:08
 |3dk|删除当前及上面3行，即一共3+1行|
 |3dd|向下删除,一共3行|
 
-#yank
+# yank
 
 |Command|Explanation|
 |:-----:|:----------------|
@@ -57,32 +57,32 @@ date: 2016-06-27 22:55:08
 |y5h|向前复制5个字符|
 |:4co.<kbd>Enter</kbd>|复制第4行并粘贴至当前行的下一行|
 
-* count
+# count
 
 |Command|Explanation|
 |:-----:|:----------------|
 |:%s/string//gn|统计某匹配串出现的次数|
 
-* search
+# search
 
 |Command|Explanation|
 |:-----:|:----------|
 |\*|search for the word under the cursor forward|
 |#|search for the word under the cursor backward|
 
-* move
+# move
 
 |Command|Explanation|
 |:-----:|:----------------|
 |n\||move cusor to the column of n|
 
-* highlight settings
+# highlight settings
 
 |Command|Explanation|
 |:-----:|:----------------|
 |:noh|取消替换、搜索之后的高亮|
 
-* case change
+# case change
 
 |Command|Explanation|
 |:-----:|:----------------|
@@ -99,7 +99,7 @@ date: 2016-06-27 22:55:08
 |gUU|change the current line to uppercase (same as VU)|
 |gUiw|change current word to uppercase|
 
-* split window
+# split window
 
 |Command|Explanation|
 |:-----:|:----------------|
