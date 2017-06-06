@@ -12,7 +12,7 @@ date: 2016-06-27 22:55:08
 |:%s/\\(.\*\\)/something\1|get the whole line and replace, \1 is the content of the line, for examle :%s/\\(.\*\\)/String \1 = "";|
 |r|replace character under current cursor| 
 |R|replace from current cursor| 
-|:%s/$/xxx/ 或者 :x,ynorm AxxxEsc|每行的行尾添加相同的内容"xxx"|
+|:%s/$/xxx/ 或者 :x,ynorm Axxx<kbd>Esc<\/kbd>|每行的行尾添加相同的内容"xxx"|
 |:%s/xxx.\*/yyy/|从xxx处至行尾替换成yyy,其中若"yyy"为空串，则可变为从"xxx"处删至行尾|
 |:g/red/s/blue/green|替换包含某字符串的行,to replace "blue" with "green" in lines that contain "red"|
 |:g!/red/s/blue/green|替换不包含某字符串的行,to do the replacement in lines that do not contain "red"|
@@ -62,6 +62,7 @@ date: 2016-06-27 22:55:08
 |y5l|向后复制5个字符|
 |y5h|向前复制5个字符|
 |:4co.<kbd>Enter</kbd>|复制第4行并粘贴至当前行的下一行|
+|:xcoy<kbd>Enter</kbd>|复制第x行并粘贴至y行的下一行|
 |yip|复制整段|
 |yap|复制整段|
 |yip|复制一个单词|
