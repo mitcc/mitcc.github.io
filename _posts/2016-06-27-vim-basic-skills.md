@@ -45,6 +45,7 @@ date: 2016-06-27 22:55:08
 |:g/^\\s\*$/d|delete all lines that are empty or that contain only whitespace characters (spaces, tabs)|
 |:g/abcd/d|删除所有包含"abcd"的行|
 |:%g!/abcd/d|删除所有不包含"abcd"的行|
+|:%v/abcd/d|删除所有不包含"abcd"的行|
 |:%g!/abcd\\\|efgh/d|删除所有不包含"abcd"且不包含"efgh"的行|
 |3dk|删除当前及上面3行，即一共3+1行|
 |3dd|向下删除,一共3行|
