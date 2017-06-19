@@ -87,6 +87,10 @@ date: 2016-06-27 22:55:08
 |Command|Explanation|
 |:-----:|:----------------|
 |n\||move cusor to the column of n|
+|CTRL+f|向前翻屏|
+|CTRL+b|向后翻屏|
+|CTRL+d|向前翻半屏|
+|CTRL+u|向后翻半屏|
 
 # highlight settings
 
