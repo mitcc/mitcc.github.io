@@ -113,6 +113,7 @@ date: 2016-06-27 22:55:08
 |gU|toggle uppercase|
 |guu|change the current line to lowercase (same as vu)|
 |gUU|change the current line to uppercase (same as VU)|
+|guiw|change current word to lowercase|
 |gUiw|change current word to uppercase|
 
 # split window
