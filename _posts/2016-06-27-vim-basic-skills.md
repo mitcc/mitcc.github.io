@@ -125,3 +125,11 @@ date: 2016-06-27 22:55:08
 |:vsp or Ctrl+w+v|split the current window vertically, loading the same file in the new window|
 |:q|close the currently active window|
 |:on|close all windows except the currently active window|
+
+# buffer
+
+|Command|Explanation|
+|:-----:|:----------------|
+|:b2|go to buffer 2|
+|:bd|close current buffer|
+
