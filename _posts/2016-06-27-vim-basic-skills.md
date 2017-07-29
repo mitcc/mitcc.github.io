@@ -64,6 +64,7 @@ date: 2016-06-27 22:55:08
 |y5h|向前复制5个字符|
 |:4co.<kbd>Enter</kbd>|复制第4行并粘贴至当前行的下一行|
 |:xcoy<kbd>Enter</kbd>|复制第x行并粘贴至y行的下一行|
+|:x, ycoz<kbd>Enter</kbd>|复制第x至y行并粘贴至z行的下一行|
 |yip|复制整段|
 |yap|复制整段|
 |yip|复制一个单词|
