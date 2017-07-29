@@ -52,8 +52,10 @@ date: 2016-06-27 22:55:08
 |dip|删除整段|
 |dap|删除整段|
 |diw|删除一个单词|
+|diW|delete inner WORD(A WORD consists of a sequence of non-blank characters, separated with white
+space.  An empty line is also considered to be a WORD.)|
 |daw|删除一个单词|
-|daW|删除一个单词|
+|daW|delete around WORD|
 
 
 # yank
