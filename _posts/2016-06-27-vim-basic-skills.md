@@ -55,6 +55,7 @@ date: 2016-06-27 22:55:08
 |diW|delete inner WORD(A WORD consists of a sequence of non-blank characters, separated with white space.  An empty line is also considered to be a WORD.)|
 |daw|删除一个单词|
 |daW|delete around WORD|
+|dvip|merge multiple blank lines to one|
 
 
 # yank
