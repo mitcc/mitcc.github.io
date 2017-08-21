@@ -117,7 +117,7 @@ date: 2016-06-27 22:55:08
 |g~~|toggle case of the current line (same as V~)|
 |gu|toggle lowercase|
 |gU|toggle uppercase|
-|guu|change the current line to lowercase (same as vu)|
+|guu|change the current line to lowercase (same as Vu)|
 |gUU|change the current line to uppercase (same as VU)|
 |guiw|change current word to lowercase|
 |gUiw|change current word to uppercase|
