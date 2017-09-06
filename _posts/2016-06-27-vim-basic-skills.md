@@ -138,3 +138,9 @@ date: 2016-06-27 22:55:08
 |:b2|go to buffer 2|
 |:bd|close current buffer|
 
+# join
+
+|Command|Explanation|
+|:-----:|:----------------|
+|%j|join all line to one line|
+|%s/\n//g|join all line to one line|
