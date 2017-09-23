@@ -13,7 +13,7 @@ public class Test {
             System.out.println("i = " + i + ", a == b is: " + (a == b));
 
             /*
-            java上面的输出结果为：
+            上面的输出结果为：
             i = -130, a == b is: false
             i = -129, a == b is: false
             i = -128, a == b is: true
