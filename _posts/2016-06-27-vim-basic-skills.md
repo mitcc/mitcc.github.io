@@ -98,6 +98,7 @@ date: 2016-06-27 22:55:08
 |CTRL+d|向前翻半屏|
 |CTRL+u|向后翻半屏|
 |ge|move cursor to the end of the previous word|
+|gE|move cursor to the end of the previous WORD|
 
 # highlight settings
 
