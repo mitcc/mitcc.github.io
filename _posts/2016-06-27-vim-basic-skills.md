@@ -156,5 +156,6 @@ date: 2016-06-27 22:55:08
 |at|一对XML标签<xml>tags</xml>|
 |it|XML标签内部|
 |cit|替换XML标签内部|
+|dit|删除XML标签内部|
 
 
