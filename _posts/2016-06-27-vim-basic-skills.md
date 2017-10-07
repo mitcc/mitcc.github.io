@@ -99,7 +99,7 @@ date: 2016-06-27 22:55:08
 |CTRL+u|向后翻半屏|
 |ge|move cursor to the end of the previous word|
 |gE|move cursor to the end of the previous WORD|
-|:4m5|move line 4 to line 5|
+|:x,ymz|move lines between x and y to z|
 |:'<,'>m$|把选中的文本移到文件结尾|
 
 # highlight settings
