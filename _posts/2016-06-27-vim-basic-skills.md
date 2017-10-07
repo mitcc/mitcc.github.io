@@ -148,3 +148,12 @@ date: 2016-06-27 22:55:08
 |:-----:|:----------------|
 |%j|join all line to one line|
 |%s/\n//g|join all line to one line|
+
+# xml
+
+|Command|Explanation|
+|:-----:|:----------------|
+|at|一对XML标签<xml>tags</xml>|
+|it|XML标签内部|
+
+
