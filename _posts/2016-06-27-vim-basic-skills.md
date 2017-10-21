@@ -159,4 +159,9 @@ date: 2016-06-27 22:55:08
 |dit|删除XML标签内部|
 |yit|复制XML标签内部|
 
+# format
+
+|Command|Explanation|
+|:-----:|:----------------|
+|ggvG=|格式化代码|
 
