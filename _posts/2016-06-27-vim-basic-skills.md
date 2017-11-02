@@ -164,4 +164,5 @@ date: 2016-06-27 22:55:08
 |Command|Explanation|
 |:-----:|:----------------|
 |ggvG=|格式化代码|
+|:m, n!python -m json.tool|格式化json|
 
