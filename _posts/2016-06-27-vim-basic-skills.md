@@ -101,6 +101,8 @@ date: 2016-06-27 22:55:08
 |gE|move cursor to the end of the previous WORD|
 |:x,ymz|move lines between x and y to z|
 |:'<,'>m$|把选中的文本移到文件结尾|
+|`.|jump to last edit place|
+|'.|jump to last edit place|
 
 # highlight settings
 
