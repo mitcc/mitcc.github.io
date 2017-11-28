@@ -150,6 +150,8 @@ date: 2016-06-27 22:55:08
 |:-----:|:----------------|
 |%j|join all line to one line|
 |%s/\n//g|join all line to one line|
+|ggVGJ|join all line to one line|
+|1,$join|join all line to one line|
 
 # xml
 
