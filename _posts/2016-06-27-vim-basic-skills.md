@@ -12,6 +12,7 @@ date: 2016-06-27 22:55:08
 |:%s/\\(.\*\\)/something\1|get the whole line and replace, \1 is the content of the line, for examle :%s/\\(.\*\\)/String \1 = "";|
 |r|replace character under current cursor|
 |R|replace from current cursor|
+|:s/\s\+/xxx/g|替换一段连续的空白|
 |:%s/$/xxx/ 或者 :x,ynorm Axxx<kbd>Esc</kbd>|每行的行尾添加相同的内容"xxx"|
 |:%s/xxx.\*/yyy/|从xxx处至行尾替换成yyy,其中若"yyy"为空串，则可变为从"xxx"处删至行尾|
 |:g/red/s/blue/green|替换包含某字符串的行,to replace "blue" with "green" in lines that contain "red"|
