@@ -175,5 +175,5 @@ date: 2016-06-27 22:55:08
 
 |Command|Explanation|
 |:-----:|:----------------|
-|1.qa   2.do something   3.q   4.100a|宏录制及其使用|
+|1.qa   2.do something   3.q   4.100@a|宏录制及其使用|
 
