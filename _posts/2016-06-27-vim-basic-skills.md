@@ -171,3 +171,9 @@ date: 2016-06-27 22:55:08
 |ggvG=|格式化代码|
 |:m, n!python -m json.tool|格式化json|
 
+# 宏录制
+
+|Command|Explanation|
+|:-----:|:----------------|
+|1.qa   2.do something   3.q   4.100a|宏录制及其使用|
+
