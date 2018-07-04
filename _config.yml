@@ -1,7 +1,7 @@
 # ----------- CONFIGURABLE START -----------
 title:            "mitcc"
 description:      "make cool things happen"
-url:              https://mitcc.me # Site url, without a slash at the end.
+url:              # Site url, without a slash at the end.
 signoff:          "mitcc" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
