@@ -86,7 +86,7 @@ date: 2016-06-27 22:55:08
 
 |Command|Explanation|
 |:-----:|:----------|
-|\*|search for the word under the cursor forward|
+|\*|search for the word under the cursor forward(Gn jump to the first match, and GN jump to the last)|
 |#|search for the word under the cursor backward|
 
 # move
