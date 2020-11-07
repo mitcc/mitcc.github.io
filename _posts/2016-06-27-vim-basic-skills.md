@@ -148,6 +148,7 @@ date: 2016-06-27 22:55:08
 |:-----:|:----------------|
 |:b2|go to buffer 2|
 |:bd|close current buffer|
+|:qa|close all buffer|
 
 # join
 
